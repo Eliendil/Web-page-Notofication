@@ -1,0 +1,8 @@
+Доброго времени суток, Вера.
+Сдаю CodeJam-dom Нотификации для пользователя #2
+
+thimble.mozilla publication:
+https://thimbleprojects.org/eliperch/582564
+
+private repo PR:
+https://github.com/rolling-scopes-school/eliendil-2018Q3/pull/2

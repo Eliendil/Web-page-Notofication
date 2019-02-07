@@ -1,0 +1,91 @@
+body {
+    background-color: antiquewhite;
+    font-family: Cardo, Bodoni, Bembo, Garamond, Georgia, Times, serif;
+    padding: 5px 25px 5px 25px;
+    text-align: justify;
+    color: black;
+  }
+  
+  h1 {
+    font-family: Cardo, Bodoni, Bembo, Garamond, Georgia, Times, serif;
+    color: black;
+  }
+  
+  p.notification {
+    font-family: Cardo, Bodoni, Bembo, Garamond, Georgia, Times, serif;
+    color: darkslateblue;
+    font-size: 20px;
+  }
+  
+  .callout {
+    position: fixed;
+    top: 5em;
+    right: 1em;
+    margin-left: 20px;
+    width: 300px;
+    visibility: hidden;
+    opacity: 0.95;
+  }
+  
+  .callout-header {
+    padding: 25px 11px 30px 18px;
+    background: #555;
+    font-size: 30px;
+    color: white;
+  }
+  
+  .callout-container {
+    padding: 15px;
+    background-color: #ccc;
+    color: black;
+    height: 80px;
+  }
+  
+  .closebtn {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .closebtn:hover {
+    color: lightgrey;
+  }
+  
+  .prevbtn {
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .prevbtn:hover {
+    font-size: 32px;
+  }
+  
+  .nextbtn {
+    position: absolute;
+    bottom: 5px;
+    right: 15px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .nextbtn:hover {
+    font-size: 32px;
+  }
+  
+  .checkbox_place {
+    position: absolute;
+    top: 1em;
+    width: 100%;
+    text-align: center;
+    margin-left: 20px;
+    visibility: visible;
+    opacity: 0.50;
+  }
